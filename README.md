@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR NAME:Koduru Sanath Kumar Reddy</H3>
+<H3>ENTER YOUR REGISTER NO.212221240024</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
@@ -79,7 +79,18 @@ if __name__ == '__main__':
 
 <H3>Output</H3>
 
-Show your results here
+
+<img width="832" alt="image" src="https://github.com/KoduruSanathKumarReddy/Ex-6--AAI/assets/69503902/076128d9-9d6c-4cd5-8f2d-1a0a51369d8e">
+<img width="832" alt="image" src="https://github.com/KoduruSanathKumarReddy/Ex-6--AAI/assets/69503902/889351b3-0ae3-49b3-9f24-07c99b3d568d">
+<img width="832" alt="image" src="https://github.com/KoduruSanathKumarReddy/Ex-6--AAI/assets/69503902/35045fc0-a2c1-4378-87cd-0b07f1b99d9e">
+<img width="832" alt="image" src="https://github.com/KoduruSanathKumarReddy/Ex-6--AAI/assets/69503902/4a7747d6-880e-46d7-a9bf-1f59a8e77626">
+<img width="832" alt="image" src="https://github.com/KoduruSanathKumarReddy/Ex-6--AAI/assets/69503902/29b7b1f0-385a-4361-ae38-5202f18d6b1f">
+<img width="832" alt="image" src="https://github.com/KoduruSanathKumarReddy/Ex-6--AAI/assets/69503902/24d16743-0edf-40d7-9f1a-96614155ab58">
+
+
+
+
+
 
 <H3>Result:</H3>
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
